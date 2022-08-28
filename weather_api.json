@@ -1,0 +1,64 @@
+{
+  "status": "1",
+  "count": "1",
+  "info": "OK",
+  "infocode": "10000",
+  "forecasts": [
+    {
+      "city": "北京市",
+      "adcode": "110000",
+      "province": "北京",
+      "reporttime": "2022-08-28 11:02:42",
+      "casts": [
+        {
+          "date": "2022-08-28",
+          "week": "7",
+          "dayweather": "小雨",
+          "nightweather": "小雨",
+          "daytemp": "21",
+          "nighttemp": "16",
+          "daywind": "南",
+          "nightwind": "南",
+          "daypower": "≤3",
+          "nightpower": "≤3"
+        },
+        {
+          "date": "2022-08-29",
+          "week": "1",
+          "dayweather": "多云",
+          "nightweather": "多云",
+          "daytemp": "27",
+          "nighttemp": "17",
+          "daywind": "西南",
+          "nightwind": "西南",
+          "daypower": "≤3",
+          "nightpower": "≤3"
+        },
+        {
+          "date": "2022-08-30",
+          "week": "2",
+          "dayweather": "晴",
+          "nightweather": "晴",
+          "daytemp": "29",
+          "nighttemp": "17",
+          "daywind": "西南",
+          "nightwind": "西南",
+          "daypower": "≤3",
+          "nightpower": "≤3"
+        },
+        {
+          "date": "2022-08-31",
+          "week": "3",
+          "dayweather": "晴",
+          "nightweather": "晴",
+          "daytemp": "31",
+          "nighttemp": "18",
+          "daywind": "西南",
+          "nightwind": "西南",
+          "daypower": "≤3",
+          "nightpower": "≤3"
+        }
+      ]
+    }
+  ]
+}
